@@ -1,0 +1,16 @@
+textarea, textarea.form-control, select, select.form-control {
+    width: 200px;
+    height: calc(1.5em + 0.75rem + 4px);
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    font-weight: 700;
+    line-height: 1.5;
+    outline: none;
+    color: #555;
+    background-color: #fff;
+    background-clip: padding-box;
+    border-radius: 255px 25px 225px 25px/25px 225px 25px 255px !important;
+    border: 2px solid #333;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out, -webkit-box-shadow 0.15s ease-in-out;
+}
+
