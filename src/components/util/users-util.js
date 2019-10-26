@@ -33,8 +33,10 @@ export const createNode = (text, complete, id) => {
 export const addNote = (users, selected, text, complete) => {
     const editedUsers = [...users];
     const newNote = createNode(text, complete, editedUsers[selected].wasNotes);
-    editedUsers[selected].wasNotes++;
+    if(editedUsers[selected].notes === undefined)
+        editedUsers[selected].notes = [];
     editedUsers[selected].notes = [...users[selected].notes, newNote];
+    editedUsers[selected].wasNotes++;
     return editedUsers;
 };
 

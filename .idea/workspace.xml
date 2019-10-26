@@ -58,7 +58,7 @@
         <entry file="file://$PROJECT_DIR$/src/components/users-table/users-table.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="23">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -175,10 +175,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="662" />
-    <option name="y" value="208" />
-    <option name="width" value="987" />
-    <option name="height" value="1077" />
+    <option name="x" value="660" />
+    <option name="y" value="206" />
+    <option name="width" value="989" />
+    <option name="height" value="1079" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -192,80 +192,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="users" type="b2602c69:ProjectViewProjectNode" />
-              <item name="users" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="users" type="b2602c69:ProjectViewProjectNode" />
-              <item name="users" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="users" type="b2602c69:ProjectViewProjectNode" />
-              <item name="users" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="users" type="b2602c69:ProjectViewProjectNode" />
-              <item name="users" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="users" type="b2602c69:ProjectViewProjectNode" />
-              <item name="users" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="add-panel" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="users" type="b2602c69:ProjectViewProjectNode" />
-              <item name="users" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="users" type="b2602c69:ProjectViewProjectNode" />
-              <item name="users" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="users" type="b2602c69:ProjectViewProjectNode" />
-              <item name="users" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="note-content" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="users" type="b2602c69:ProjectViewProjectNode" />
-              <item name="users" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="table-item" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="users" type="b2602c69:ProjectViewProjectNode" />
-              <item name="users" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="table-items-panel" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="users" type="b2602c69:ProjectViewProjectNode" />
-              <item name="users" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="users-table" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="users" type="b2602c69:ProjectViewProjectNode" />
-              <item name="users" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="users-tortuga" type="b2602c69:ProjectViewProjectNode" />
+              <item name="users-tortuga" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -369,16 +297,20 @@
       <workItem from="1571839160795" duration="2792000" />
       <workItem from="1571842061290" duration="187000" />
       <workItem from="1571849896530" duration="27000" />
+      <workItem from="1571850202501" duration="271000" />
+      <workItem from="1571852875868" duration="33000" />
+      <workItem from="1571853311160" duration="763000" />
+      <workItem from="1572021433406" duration="19000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="130339000" />
+    <option name="totallyTimeSpent" value="131425000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1916" height="1055" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12673056" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12673056" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -393,7 +325,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="GraphQL" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.36607143" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.03348214" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -605,7 +537,7 @@
     <entry file="file://$PROJECT_DIR$/src/components/users-table/users-table.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
